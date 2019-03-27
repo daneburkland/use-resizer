@@ -1,0 +1,23 @@
+{
+  "name": "use-resizer",
+  "version": "1.0.0",
+  "description": "A React hook that exposes a drag to resize pane",
+  "main": "useResizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/daneburkland/use-resizer.git"
+  },
+  "author": "Dane Burkland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daneburkland/use-resizer/issues"
+  },
+  "homepage": "https://github.com/daneburkland/use-resizer#readme",
+  "dependencies": {
+    "react": "16.8.0",
+    "react-dom": "16.8.0"
+  }
+}
